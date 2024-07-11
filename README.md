@@ -1,4 +1,4 @@
-# Hi there, I'm Tom William Abagnale! 👋
+# Hi there, I'm Trần Chung Hiếu! 👋
 
 ## 🚀 About Me
 I'm a full stack developer with a passion for creating web applications. I love working with Laravel and Livewire to build dynamic and interactive web experiences.
@@ -13,6 +13,6 @@ I'm a full stack developer with a passion for creating web applications. I love 
 - **Other:** Linux
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chunghieu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chunghieu)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hieukhocnhe)
 
