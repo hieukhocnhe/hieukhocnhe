@@ -40,7 +40,7 @@
   
   <h3 align="left">Framework:</h3>
   <p align="left">
-     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <br>
+     [![laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](https://laravel.com/) <br>
   </p>
  <h3 align="left">Other:</h3>
   <p align="left">
